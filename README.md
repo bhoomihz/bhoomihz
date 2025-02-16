@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhoomi Shetty</h1>
-<h3 align="center">An Aspiring Software Developer</h3>
+<h3 align="center">Software Engineer @ICICI Lombard</h3>
 
 - 📝 I regularly write articles on [https://medium.com/@bhoomishetty](https://medium.com/@bhoomishetty)
 
